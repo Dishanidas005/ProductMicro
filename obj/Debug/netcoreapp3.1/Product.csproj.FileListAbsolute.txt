@@ -79,3 +79,24 @@ G:\visual studio\CTS MFPE Project V3\backup\Retail Product Management\Retail Pro
 G:\visual studio\CTS MFPE Project V3\backup\Retail Product Management\Retail Product Management\ProductsModule\Product\obj\Debug\netcoreapp3.1\Product.pdb
 G:\visual studio\CTS MFPE Project V3\backup\Retail Product Management\Retail Product Management\ProductsModule\Product\obj\Debug\netcoreapp3.1\Product.genruntimeconfig.cache
 G:\visual studio\CTS MFPE Project V3\backup\Retail Product Management\Retail Product Management\ProductsModule\Product\bin\Debug\netcoreapp3.1\Product.yaml
+G:\RetailProductCTS\ProductsModule\Product\bin\Debug\netcoreapp3.1\appsettings.Development.json
+G:\RetailProductCTS\ProductsModule\Product\bin\Debug\netcoreapp3.1\appsettings.json
+G:\RetailProductCTS\ProductsModule\Product\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+G:\RetailProductCTS\ProductsModule\Product\bin\Debug\netcoreapp3.1\Product.exe
+G:\RetailProductCTS\ProductsModule\Product\bin\Debug\netcoreapp3.1\Product.yaml
+G:\RetailProductCTS\ProductsModule\Product\bin\Debug\netcoreapp3.1\Product.deps.json
+G:\RetailProductCTS\ProductsModule\Product\bin\Debug\netcoreapp3.1\Product.runtimeconfig.json
+G:\RetailProductCTS\ProductsModule\Product\bin\Debug\netcoreapp3.1\Product.runtimeconfig.dev.json
+G:\RetailProductCTS\ProductsModule\Product\bin\Debug\netcoreapp3.1\Product.dll
+G:\RetailProductCTS\ProductsModule\Product\bin\Debug\netcoreapp3.1\Product.pdb
+G:\RetailProductCTS\ProductsModule\Product\obj\Debug\netcoreapp3.1\Product.csprojAssemblyReference.cache
+G:\RetailProductCTS\ProductsModule\Product\obj\Debug\netcoreapp3.1\Product.csproj.CoreCompileInputs.cache
+G:\RetailProductCTS\ProductsModule\Product\obj\Debug\netcoreapp3.1\Product.MvcApplicationPartsAssemblyInfo.cache
+G:\RetailProductCTS\ProductsModule\Product\obj\Debug\netcoreapp3.1\Product.AssemblyInfoInputs.cache
+G:\RetailProductCTS\ProductsModule\Product\obj\Debug\netcoreapp3.1\Product.AssemblyInfo.cs
+G:\RetailProductCTS\ProductsModule\Product\obj\Debug\netcoreapp3.1\Product.RazorTargetAssemblyInfo.cache
+G:\RetailProductCTS\ProductsModule\Product\obj\Debug\netcoreapp3.1\staticwebassets\Product.StaticWebAssets.Manifest.cache
+G:\RetailProductCTS\ProductsModule\Product\obj\Debug\netcoreapp3.1\staticwebassets\Product.StaticWebAssets.xml
+G:\RetailProductCTS\ProductsModule\Product\obj\Debug\netcoreapp3.1\Product.dll
+G:\RetailProductCTS\ProductsModule\Product\obj\Debug\netcoreapp3.1\Product.pdb
+G:\RetailProductCTS\ProductsModule\Product\obj\Debug\netcoreapp3.1\Product.genruntimeconfig.cache
